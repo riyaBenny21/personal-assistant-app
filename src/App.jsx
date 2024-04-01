@@ -17,7 +17,7 @@ function App() {
                 title ='alexa' 
                 handle='@alexa99' 
                 description='I will help you to buy stuff of Amazon'
-                imgSrc='/images/alexa.png'
+                imgSrc={alexaIcon}
               />
             </div>
             <div style={{ marginRight: '20px' }}>
